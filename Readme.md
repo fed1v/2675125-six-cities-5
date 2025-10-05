@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Иван Федоров](https://up.htmlacademy.ru/univer-nodejs-api/5/user/2675125).
-* Наставник: `Неизвестно`.
+* Наставник: [Глеб Клецков](https://htmlacademy.ru/profile/id1487865)
 
 ---
 
